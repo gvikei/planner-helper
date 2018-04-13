@@ -1,5 +1,7 @@
 # Planner Helper
 
+Hello,
+
 This is a [Chrome extension](http://goo.gl/8ZzYSM) created to help UCSD students create their class planner. It helps consolidate the workflow most students follow.
 
 ## Key Features
